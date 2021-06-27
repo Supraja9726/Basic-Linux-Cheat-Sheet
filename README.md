@@ -1,6 +1,6 @@
 # Basic-Linux-Cheat-Sheet
 
-| ------------- | ------------- |
+| File & Navigations  |  |
 | Command  | Purpose |
 | ------------- | ------------- |
 | ls   | directory listing (file/folders on current dir) |
@@ -25,3 +25,12 @@
 | cat > file | write standard input to the file |
 | cat >> file | append standard input into file |
 | tail -f file | output contents of file as it grows |
+| System Info |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
