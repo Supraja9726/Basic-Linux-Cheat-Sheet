@@ -79,3 +79,31 @@ Permissions
 | order | owner/group/world |
 | chmod 777 | rwx for everyone |
 | chmod 755 | rw for owner, rx for group world |
+
+Compressing
+| Command  | Purpose |
+| :------------- | :------------- |
+| tar cf file.tar files | tar files into file.tar |
+| tar xf file.tar | untar into current directory |
+| tar tf file.tar | show contents of archive |
+| options: |  |
+| c | create archive |
+| t | table of contents |
+| x | extract |
+| z | use zip/Gzip |
+| f | specify filename |
+| j | bzip2 compression |
+| w | ask for confirmation |
+| k | do not overwrite |
+| T | files from file |
+| V | verbose |
+
+
+Others
+| Command  | Purpose |
+| :------------- | :------------- |
+| grep pattern files | search in files for pattern |
+| grep -r pattern dir | search for pattern recursively in dir |
+| locate file | find all intances of a file |
+| whereis app | Find the possible locations of an app |
+| man command | show mannual page for command |
