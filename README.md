@@ -107,3 +107,23 @@ Others
 | locate file | find all intances of a file |
 | whereis app | Find the possible locations of an app |
 | man command | show mannual page for command |
+
+
+Linux File systems
+| Command  | Purpose |
+| :------------- | :------------- |
+| /bin | User binaries |
+| /sbin | System binaries |
+| /etc | Configuration files |
+| /dev | Device files |
+| /proc | Process information |
+| /var | Variable files |
+| /tmp | Temporary files |
+| /usr | User programs |
+| /home | Home Directories |
+| /boot | Boot Loader files |
+| /lib | System libraries |
+| /opt | Optional add-on apps |
+| /mnt | Mount Directory |
+| /media | Removable devices |
+| /srv | Service Data |
