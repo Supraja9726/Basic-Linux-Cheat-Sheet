@@ -1,6 +1,7 @@
 # Basic-Linux-Cheat-Sheet
 
 | File & Navigations  |  |
+| ------------- | ------------- |
 | Command  | Purpose |
 | ------------- | ------------- |
 | ls   | directory listing (file/folders on current dir) |
