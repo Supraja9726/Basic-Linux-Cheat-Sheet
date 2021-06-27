@@ -1,6 +1,6 @@
 # Basic-Linux-Cheat-Sheet
 
-| File & Navigations  |  |
+| File & Navigations  | - |
 | ------------- | ------------- |
 | Command  | Purpose |
 | ------------- | ------------- |
@@ -26,12 +26,19 @@
 | cat > file | write standard input to the file |
 | cat >> file | append standard input into file |
 | tail -f file | output contents of file as it grows |
-| System Info |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| System Info | - |
+| ------------- | ------------- |
+| Command  | Purpose |
+| ------------- | ------------- |
+| date | show current date/time |
+| uptime | show uptime |
+| whoami | who you are logged in as |
+| w | display who is online |
+| cat/proc/cpuinfo | cpu info |
+| cat/proc/meminfo | memory info |
+| free | show memory and swap usage |
+| du | show directory space usage |
+| du -sh | display readable size in GB |
+| df | show disk usage |
+| uname-a | show kernel config |
 |  |  |
