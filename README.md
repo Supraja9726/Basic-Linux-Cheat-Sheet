@@ -3,7 +3,7 @@
 | File & Navigations  | - |
 | ------------- | ------------- |
 | Command  | Purpose |
-| ------------- | ------------- |
+| --- | --- |
 | ls   | directory listing (file/folders on current dir) |
 | ls  -l | formatting listing |
 | ls -la  | formatted listing using hidden files |
