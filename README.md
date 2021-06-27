@@ -30,7 +30,7 @@ File & Navigations
 
  System Info
 | Command  | Purpose |
-| ------------- | ------------- |
+| :------------- | :------------- |
 | date | show current date/time |
 | uptime | show uptime |
 | whoami | who you are logged in as |
@@ -43,3 +43,39 @@ File & Navigations
 | df | show disk usage |
 | uname-a | show kernel config |
 
+
+Process
+| Command  | Purpose |
+| :------------- | :------------- |
+| ps | display currently active process |
+| ps aux | detailed outputs |
+| kill pid | kill process with process id |
+| kill all proc | kill all processes named proc |
+
+
+Networking
+| Command  | Purpose |
+| :------------- | :------------- |
+| ping host | ping host |
+| whois domain | get whois for domain |
+| dig domain  | get DNS for domain |
+| dig -x host | reserve lookup host |
+| wget file | download file |
+| wget -c file | continue stopped download file |
+| wget -r url | recursively download files from the url |
+| curl url | outputs the webpage from url |
+| curl -o meh.html url | writes to the page meh.html |
+| ssh user@host | connect host to the user |
+| ssh -p port user@host | connectusing port |
+| ssh -D user@port | connect & use bind port |
+
+Permissions
+| Command  | Purpose |
+| :------------- | :------------- |
+| chmod octal file | change permissions of file |
+| 4 | read (r) |
+| 2 | write (w) |
+| 1 | execute (x) |
+| order | owner/group/world |
+| chmod 777 | rwx for everyone |
+| chmod 755 | rw for owner, rx for group world |
